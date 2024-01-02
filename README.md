@@ -5,10 +5,10 @@
 <p>Step2: 할일카드의 댓글기능</p>
 
 <p>API</p> 
-<p>![todo api1](https://github.com/jiyeong2023/TODOprojects/assets/152155627/85ad2427-3151-432f-88e4-6456b5d3a5bf)</p>
+![todo api1](https://github.com/jiyeong2023/TODOprojects/assets/152155627/85ad2427-3151-432f-88e4-6456b5d3a5bf)
 
 <p>ERD</p>
-<p>![todo erd](https://github.com/jiyeong2023/TODOprojects/assets/152155627/44a59984-ce4d-42e8-8bc8-bb8880ec6063)</p>
+![todo erd](https://github.com/jiyeong2023/TODOprojects/assets/152155627/44a59984-ce4d-42e8-8bc8-bb8880ec6063)
 
 
 <p>단위테스트</p>
