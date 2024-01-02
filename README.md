@@ -15,7 +15,10 @@
 
 <p>-할일추가기능</p>
 <p>
-![생성1](https://github.com/jiyeong2023/TODOprojects/assets/152155627/ba5ca0da-b56e-49fb-ad91-2757e2dc2e7b)<br>
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg <img src=""(https://github.com/jiyeong2023/TODOprojects/assets/152155627/ba5ca0da-b56e-49fb-ad91-2757e2dc2e7b)"" width=" " height=" "></img><br/>
+<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+  ![생성1](https://github.com/jiyeong2023/TODOprojects/assets/152155627/ba5ca0da-b56e-49fb-ad91-2757e2dc2e7b)<br>
 ![생성2](https://github.com/jiyeong2023/TODOprojects/assets/152155627/33a774c2-1129-4768-ad43-b78b7783db1f)<br>
 ![생성3](https://github.com/jiyeong2023/TODOprojects/assets/152155627/f485c1c1-7068-4bec-9508-3859aad357f7)</p>
 
