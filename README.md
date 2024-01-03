@@ -1,8 +1,5 @@
-# Todo Projects Application -> h1
+# Todo Projects Application 
 
-## 중제목
-
-### 소제목
 
 ## 개발계획
 - Step1: 할일카드에 대한 CRUD 기능
