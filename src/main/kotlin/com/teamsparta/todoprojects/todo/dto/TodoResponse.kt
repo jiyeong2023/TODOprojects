@@ -5,8 +5,7 @@ import java.time.LocalDateTime
 data class TodoResponse (
     val id: Long,
     val title: String,
-    val description: String?,
+    var description: String?,
     val user: String,
     val createdDate: LocalDateTime,
-
 )

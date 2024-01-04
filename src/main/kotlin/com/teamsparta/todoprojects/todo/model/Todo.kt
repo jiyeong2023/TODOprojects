@@ -23,6 +23,13 @@ class Todo(
     @Column(name = "password", nullable = false)
     var password: String,
 
+//    @Column( name= "state", nullable = false) 완료필드 설정
+//    var
+
+    //알대다, 양대다 설정필요
+//    @OneToMany()
+
+
 ) {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -35,5 +42,6 @@ fun Todo.toResponse(): TodoResponse {
         description = description,
         user = user,
         createdDate = LocalDateTime.now()
+        //완료필드 설정필요
     )
 }

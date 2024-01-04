@@ -1,7 +1,9 @@
 package com.teamsparta.todoprojects.comment.dto
 
-data class CreateCommentRequest(
+import java.time.LocalDateTime
+
+data class UpdateCommentRequest (
     val user: String,
     val password: String,
-    var description : String,
+    var description : String
 )

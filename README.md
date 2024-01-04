@@ -6,7 +6,7 @@
 - Step2: 할일카드의 댓글기능
 
 ### API 
-![todo api1](https://github.com/jiyeong2023/TODOprojects/assets/152155627/85ad2427-3151-432f-88e4-6456b5d3a5bf)
+![스크린샷 2024-01-04 오후 9 26 36](https://github.com/jiyeong2023/TODOprojects/assets/152155627/a6457c24-e281-486e-8fab-381195e01031)
 
 ### ERD
 ![todo erd](https://github.com/jiyeong2023/TODOprojects/assets/152155627/44a59984-ce4d-42e8-8bc8-bb8880ec6063)
