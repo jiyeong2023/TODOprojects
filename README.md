@@ -1,9 +1,9 @@
 # Todo Projects Application 
 
 
-## 개발계획
-- Step1: 할일카드에 대한 CRUD 기능
-- Step2: 할일카드의 댓글기능
+## 요구사항
+-Step1: 할일카드에 대한 CRUD 기능
+-Step2: 할일카드의 댓글기능
 
 ### API 
 ![스크린샷 2024-01-04 오후 9 26 36](https://github.com/jiyeong2023/TODOprojects/assets/152155627/a6457c24-e281-486e-8fab-381195e01031)
